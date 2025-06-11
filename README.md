@@ -79,3 +79,5 @@ plots_per_figure = 8  # Number of boxplots per figure
 - Try other anomaly detection algorithms
 - Add feature importance analysis
 
+## Output
+https://github.com/user-attachments/assets/7b5a5716-6f7a-4369-95d0-75ec8098f8e4
