@@ -22,7 +22,7 @@ scikit-learn>=1.0.0
 2. Place `creditcard.csv` in project directory
 3. Run the script:
 ```bash
-python fraud_detection.py
+python credit fraud detection.py
 ```
 
 ## 📋 Code Structure
